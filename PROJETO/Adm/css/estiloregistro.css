@@ -1,0 +1,27 @@
+
+.login{border: 0px solid #fff; padding: 35px 100px; 
+       -webkit-box-shadow: -1px 4px 26px 11px rgba(0,0,0,0.75);
+       -moz-box-shadow: -1px 4px 26px 11px rgba(0,0,0,0.75);
+       box-shadow: -1px 4px 26px 11px rgba(0,0,0,0.75);
+
+} 
+body{
+    background: url('../img/animal.png');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+
+
+}
+.container-fluid{
+    margin-top: 50px;
+    
+}
+nav{
+    height: 70px;
+    
+}
+label{
+	font-variant: small-caps;
+	 font-weight: 700;
+}
