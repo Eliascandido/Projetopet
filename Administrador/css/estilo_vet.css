@@ -1,0 +1,22 @@
+.login{border: 0px solid #fff; padding: 35px 45px; 
+       -webkit-box-shadow: -1px 4px 26px 11px rgba(0,0,0,0.75);
+       -moz-box-shadow: -1px 4px 26px 11px rgba(0,0,0,0.75);
+       box-shadow: -1px 4px 26px 11px rgba(0,0,0,0.75);
+	background: rgba(226,226,226,0.23);
+} 
+body{
+    background: url('../img/cachorro.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+
+
+}
+.container-fluid{
+    margin-top: 50px;
+    
+}
+label{
+	font-variant: small-caps;
+	 font-weight: 700;
+}
